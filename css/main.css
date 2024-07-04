@@ -465,6 +465,16 @@ section {
   z-index: 10;
   }
 
+/* map-img */
+.map-img {
+  margin: 0 auto 70px;
+  max-width: 800px;
+  }
+
+.map-img img {
+  width: 100%;
+  }
+
 /* experience */
 .experience {
   display: grid;
