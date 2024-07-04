@@ -844,6 +844,7 @@ section {
 
 .exploitation-info__title {
   font-size: 28px;
+  font-weight: var(--primary-font-weight);
   line-height: 30px;
   }
 
